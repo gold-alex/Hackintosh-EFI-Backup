@@ -2,7 +2,7 @@
 
 EFI backup of my current Hackintosh.
 
-CPU: AMD 3950x
-/n MOBO: Gigabyte x570
-RAM: 128GB G-Skill DDR4
-Graphics Card: NVIDIA GeForce GT 710 2 GB :(
+<h4> CPU: AMD 3950x </h4> 
+<h4> MOBO: Gigabyte x570 </h4> 
+<h4> RAM: 128GB G-Skill DDR4 </h4> 
+<h4> Graphics Card: NVIDIA GeForce GT 710 2 GB :( </h4> 
