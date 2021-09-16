@@ -1,4 +1,4 @@
-# Hackintosh-EFI-Backup
+# Hackintosh EFI Backup
 
 EFI backup of my current Hackintosh. Running Big Sur using OpenCore.
 
